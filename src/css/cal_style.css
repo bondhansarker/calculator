@@ -17,14 +17,14 @@
   border: 2px solid;
   border-color: #fff;
   width: 100%;
-  height: 100px;
+  height: 80px;
   font-size: 35px;
   font-style: normal;
   color: #555;
 }
 
 .Result {
-  height: 100px;
+  height: 80px;
   width: auto;
   border: none;
   text-align: right;
