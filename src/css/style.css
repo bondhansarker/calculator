@@ -1,0 +1,15 @@
+button{
+  text-transform: capitalize;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 50px;
+  text-align: justify;
+  letter-spacing: 2px;
+  background-color: beige;
+}
+button:hover{
+  background-color: sandybrown;
+}
+button:active{
+  background-color: seagreen;
+}
